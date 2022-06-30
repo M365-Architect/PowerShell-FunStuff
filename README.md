@@ -10,7 +10,7 @@ This is a small PowerShell based countdown, that ticks down for a specified amou
 ``` 
 
 ## MD5 Hash
-This script can create and compare MD5 hashes for a file or strings. This script was originally written by a good friend and later refined by me
+This script can create and compare MD5 hashes for a file or strings. This script was originally written by a good friend (https://github.com/DrBlackBird) and later refined by me
 ```powershell
 .\Start-HashToolbox.ps1 'Read me, I am a String!'
 .\Start-HashToolbox.ps1 'C:\batch\myWonderfulScript.ps1' -file $true
